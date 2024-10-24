@@ -1,4 +1,4 @@
-#lemma #todo 
+#lemma
 ### Types
 - `M` : [[Topological Manifold]] of dimension 1
 ### Statement

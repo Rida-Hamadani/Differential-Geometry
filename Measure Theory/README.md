@@ -8,4 +8,4 @@ Math 404 - Probability Space - Dr. Ziad Khalil
 ### References
 - Probability & Measure Theory - 2nd Edition - Robert Ash
 - Real Analysis - 2nd Edition - Gerald B. Folland <-- Most recommended
-- Real and Complex Analysis - Walter/Rudin
+- Real and Complex Analysis - Walter Rudin
